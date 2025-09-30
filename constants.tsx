@@ -62,7 +62,7 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
         role: "Independent Developer",
         company: "PCSHOP.GE",
         period: "July 2025 - Present",
-        description: "Designed and developed the Retail Operations Suite, a custom internal software solution. Delivered modules for inventory management, sales tracking, and reporting using Python, Google Firebase, and PyQt6."
+        description: "Designed and developed Retail Operations Suite, a custom internal software solution. Delivered modules for inventory management, sales tracking, and reporting using Python, Google Firebase, and PyQt6."
     },
     {
         role: "Sales Manager & Merchandiser",
