@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
             <a href={PERSONAL_DATA.social.linkedin} target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="text-gray-500 dark:text-gray-400 hover:text-cyan-500 dark:hover:text-cyan-400 transition-colors">
               <LinkedInIcon className="h-6 w-6" />
             </a>
-            <a href={PERSONAL_DATA.social.twitter} target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="text-gray-500 dark:text-gray-400 hover:text-cyan-500 dark:hover:text-cyan-400 transition-colors">
+            <a href={PERSONAL_DATA.social.instagram} target="_blank" rel="noopener noreferrer" aria-label="Twitter" className="text-gray-500 dark:text-gray-400 hover:text-cyan-500 dark:hover:text-cyan-400 transition-colors">
               <TwitterIcon className="h-6 w-6" />
             </a>
           </div>
