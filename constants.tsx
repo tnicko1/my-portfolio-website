@@ -32,11 +32,11 @@ export const PERSONAL_DATA = {
     role: "Independent Developer",
     tagline: "Building innovative and efficient software solutions to solve real-world operational challenges.",
     about: "As a proactive and dedicated Independent Developer, I specialize in designing and building custom software solutions from the ground up. I recently developed the Retail Operations Suite, a comprehensive desktop application using Python, Google Firebase, and PyQt6, which streamlined inventory management, sales tracking, and reporting for the company. My expertise lies in full-stack desktop application development, database design, and delivering user-focused software that significantly improves efficiency and reduces manual errors.",
-    email: "taturashvili@pm.me",
+    email: "nikoloz@taturashvili.com",
     social: {
-        github: "#",
+        github: "https://github.com/tnicko1",
         linkedin: "https://www.linkedin.com/in/tnicko1",
-        twitter: "#",
+        instagram: "https://www.instagram.com/tnicko__/",
     }
 };
 
